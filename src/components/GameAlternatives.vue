@@ -65,6 +65,7 @@ ul {
   display: flex;
   justify-content:center;
   padding-left:0;
+  font-size: 0.8em;
 }
 li {
   list-style-type: none;
