@@ -1,2 +1,1 @@
-# vue
- 
+jag la till återställnings knapp
